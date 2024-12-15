@@ -19,4 +19,4 @@ I decided to undertake this path in January 2024. Programming languages and, mor
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/lorenzoVwebDev/PortfolioBackend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoVwebDev&repo=PortfolioBackend&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lorenzoVwebDev/PortfolioBackend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoVwebDev&repo=PortfolioBackend&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" />Puzzi</a></div><br /><br /><br /><br /><br /><br /><br />
